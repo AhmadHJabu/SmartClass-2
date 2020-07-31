@@ -33,7 +33,7 @@ body{
      background-image: linear-gradient(to right,
      rgba(0, 0, 0, 0.575), 
      rgba(0, 0, 0, 0.719)), 
-      url(../img/study.jpg);
+      url(../img/Hero/day13-it-girl.png);
       background-position: center;
       background-size: cover; 
       height: 90vh;
@@ -48,7 +48,7 @@ body{
       background-image: linear-gradient(to right,
       rgba(0, 0, 0, 0.575), 
       rgba(0, 0, 0, 0.719)),
-      url(../img/Students.jpg);
+      url(../img/Hero/day21-Lantern.png);
       background-position: center;
       background-size: cover;
     }
@@ -56,6 +56,10 @@ body{
     .bottom-section .decoration-footer li a{
       text-decoration: none;
       color: rgb(255, 255, 255);
+    }
+
+    .footer-color{
+      background-color: rgb(26, 28, 32);
     }
 
     
