@@ -89,6 +89,18 @@ body{
       z-index: 2;
     }
 
+    .form-group .form-control:focus,
+    .form-group .form-control:focus,
+    .form-group .form-control:focus,
+    .form-group .form-control:focus,
+    .form-group .form-control:focus,
+    .form-group .form-control:focus{
+      border: 1px solid black;
+      z-index: 2;
+    }
+    
+
+
     .form-signin input[type="email"] {
       margin-bottom: -1px;
       border-bottom-right-radius: 0;
