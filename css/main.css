@@ -35,12 +35,16 @@ body{
      background-image: linear-gradient(to right,
      rgba(0, 0, 0, 0.575), 
      rgba(0, 0, 0, 0.719)), 
-      url(../img/Hero/day13-it-girl.png);
+      url(../img/Hero/day20-rocket.png);
       background-position: center;
       background-size: cover; 
       height: 90vh;
       position: relative;
     }
+
+.features{
+    margin-top: 50px;;
+  }
 
     .btn-green{
       background-color: rgba(40, 180, 133, 0.801);
