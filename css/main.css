@@ -23,8 +23,8 @@ body{
   border-color: #60AFF5;
   text-decoration: rgb(255, 255, 255);
 
-
 }
+
 @media(max-width: 768px){
   .nav-link:hover{
     border-bottom: none;
